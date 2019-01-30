@@ -50,5 +50,9 @@
 }
 
 #green:hover {
-  background-color: greenyellow;
+  height:70px;
+  width: 70px;
+  background-color: rgb(32, 252, 4);
+  box-shadow: 0 0 30px rgb(0, 255, 76);
+  
 }
