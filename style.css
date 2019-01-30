@@ -1,0 +1,54 @@
+#trafficlight {
+  position: absolute;
+  width: 80px;
+  height: 200px;
+  background-color: black;
+  padding-top: 65px;
+  padding-left: 33px;
+  margin-top: 314px;
+  margin-left: 730px; 
+}
+#top {
+  position: absolute;
+  width: 44px;
+  height: 76px;
+  background-color: black;
+  margin-top: 238px;
+  margin-left: 763px;
+
+}
+#red {
+  position:absolute;
+ position: absolute;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 334px;
+    margin-left: 752px;
+
+}
+#yellow {
+  position: absolute;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color:yellow;
+    margin-top: 412px;
+    margin-left: 752px;
+
+}
+#green {
+  position: absolute;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color:rgb(31, 177, 31);
+    margin-top: 488px;
+    margin-left: 752px;
+
+}
+
+#green:hover {
+  background-color: greenyellow;
+}
